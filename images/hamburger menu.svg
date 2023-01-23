@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30.94 15.94">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 1.47px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: .94px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <line class="cls-1" x1=".99" y1=".97" x2="29.95" y2=".97"/>
+      <ellipse class="cls-2" cx="30.03" cy=".97" rx=".44" ry=".5"/>
+      <ellipse class="cls-2" cx=".91" cy=".97" rx=".44" ry=".5"/>
+    </g>
+    <g>
+      <line class="cls-1" x1=".99" y1="7.97" x2="29.95" y2="7.97"/>
+      <ellipse class="cls-2" cx="30.03" cy="7.97" rx=".44" ry=".5"/>
+      <ellipse class="cls-2" cx=".91" cy="7.97" rx=".44" ry=".5"/>
+    </g>
+    <g>
+      <line class="cls-1" x1=".99" y1="14.97" x2="29.95" y2="14.97"/>
+      <ellipse class="cls-2" cx="30.03" cy="14.97" rx=".44" ry=".5"/>
+      <ellipse class="cls-2" cx=".91" cy="14.97" rx=".44" ry=".5"/>
+    </g>
+  </g>
+</svg>
